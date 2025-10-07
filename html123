@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Alankrutha | Business Analyst Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Mamidi Alankrutha</h1>
+    <p>Aspiring Business Analyst | Kent State University</p>
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>Detail-oriented and analytical aspiring Business Analyst with a strong foundation in data interpretation, problem-solving, and effective communication. Seeking an opportunity to leverage my academic knowledge and passion for understanding business processes to contribute to data-driven decision-making and process optimization in a dynamic organization.</p>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="project">
+      <h3>Student Engagement Growth Analysis</h3>
+      <p>Analyzed student interest and institutional growth to match individual strengths with career options, enhancing student engagement strategies.</p>
+    </div>
+    <div class="project">
+      <h3>Predictive Analytics for Customer Retention</h3>
+      <p>Developed a machine learning model to reduce customer churn and offered strategic insights to improve retention rates.</p>
+    </div>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>Teamwork</li>
+      <li>Time Management</li>
+      </li>Interactive skills</li>
+      <li>Analytical Skills</li>
+      <li>Microsoft Excel</li>
+      <li>Microsoft PowerPoint</li>
+      <li>Power BI</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:mamidialankrutha21@gmail.com">mamidialankrutha21@gmail.com</a></p>
+    <p>Phone: +1 531-225-6430</p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/alankrutha21" target="_blank">alankrutha21</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Mamidi Alankrutha</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
